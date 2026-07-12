@@ -14,13 +14,12 @@ Bonne continuation à toi  !
 
 ## 🎉 **YOUPIII C'EST LA FIN !!** 🎉
 
-![Minions Celebration](https://media.giphy.com/media/3o7abKhOpu0NwenH2g/giphy.gif)
-
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" alt="Minions celebrating">
 </p>
 
-![Minions Youpi](https://i.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
-
+<p align="center">
+  <img src="./assets/minions-youpi.gif" width="300" alt="Minions Youpi 🎉">
+</p>
 
 **Thanks GoMyCode pour cette belle aventure !** 🚀
