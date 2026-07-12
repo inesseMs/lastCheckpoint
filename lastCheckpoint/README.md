@@ -20,6 +20,7 @@ Bonne continuation à toi  !
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" alt="Minions celebrating">
 </p>
 
+![Minions Youpi](https://i.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
 
 
 **Thanks GoMyCode pour cette belle aventure !** 🚀
