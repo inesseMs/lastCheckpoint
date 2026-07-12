@@ -22,14 +22,5 @@ Bonne continuation à toi  !
 </p>
 
 
-# 🎉 Projet terminé !
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="280">
-</p>
-
-<p align="center">
-  <b>YOUHOUUUU 🚀</b>
-</p>
 
 **Thanks GoMyCode pour cette belle aventure !** 🚀
