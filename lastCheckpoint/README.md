@@ -16,4 +16,10 @@ Bonne continuation à toi  !
 
 ![Minions Celebration](https://media.giphy.com/media/3o7abKhOpu0NwenH2g/giphy.gif)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" alt="Minions celebrating">
+</p>
+
+
+
 **Thanks GoMyCode pour cette belle aventure !** 🚀
