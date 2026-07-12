@@ -9,8 +9,11 @@ Je suis junior, mais je me sens prête à me lancer dans de vrais projets. J’a
 
 Bonne continuation à toi  !
 
+---
+
 ## 🎉 **YOUPIII C'EST LA FIN !!** 🎉
 
-![Minions Celebration](https://media.giphy.com/media/3o7abKhOpu0NwenH2g/giphy.gif)
+![Minions Youpi](https://i.giphy.com/media/v1.Y2J4cG9zL2dpcGh5L21lZGlhL3YzL2dpcGh5L21lZGlhLzNPN2FiS2hPcHUwTndlbkhnZy9naXBoeS5naWY=/giphy.gif)
 
-Thanks GoMyCode pour cette aventure
+**Thanks GoMyCode pour cette belle aventure !** 🚀
+
