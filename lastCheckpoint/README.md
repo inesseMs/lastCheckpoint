@@ -9,7 +9,8 @@ Je suis junior, mais je me sens prête à me lancer dans de vrais projets. J’a
 
 Bonne continuation à toi  !
 
-https://tenor.com/view/minions-youpi-les-minions-content-moi-moche-et-mechant-gif-10107044?utm_source=chatgpt.com
+<img width="498" height="224" alt="image" src="https://github.com/user-attachments/assets/b44c8ec7-e095-4b7e-8895-5c30c8841593" />
+
 
 ---
 
