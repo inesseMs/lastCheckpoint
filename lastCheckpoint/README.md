@@ -23,7 +23,7 @@ Bonne continuation à toi  !
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" alt="Minions celebrating">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="250" alt="Happy Minions">
 </p>
 
 **Thanks GoMyCode pour cette belle aventure !** 🚀
