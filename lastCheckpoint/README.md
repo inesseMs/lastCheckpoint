@@ -9,6 +9,10 @@ Je suis junior, mais je me sens prête à me lancer dans de vrais projets. J’a
 
 Bonne continuation à toi  !
 
+
+<p align="center">
+  <img src="./assets/minions-youpi.gif" width="300" alt="Minions Youpi 🎉">
+</p>
 ---
 
 
@@ -18,8 +22,6 @@ Bonne continuation à toi  !
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" alt="Minions celebrating">
 </p>
 
-<p align="center">
-  <img src="./assets/minions-youpi.gif" width="300" alt="Minions Youpi 🎉">
-</p>
+
 
 **Thanks GoMyCode pour cette belle aventure !** 🚀
