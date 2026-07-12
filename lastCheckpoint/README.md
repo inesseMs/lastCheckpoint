@@ -8,3 +8,9 @@ Tu es un prof qui pousse ses étudiants vers le haut, et je suis vraiment reconn
 Je suis junior, mais je me sens prête à me lancer dans de vrais projets. J’ai appris à faire du debug et j’adore ça, j’ai dû le faire tout le temps pour mon app. Je suis contente d’être arrivée à un stade où je suis passée de "je ne comprends rien au programming language" à connaître les langages, savoir décrypter le code et coder moi-même.
 
 Bonne continuation à toi  !
+
+## 🎉 **YOUPIII C'EST LA FIN !!** 🎉
+
+![Minions Celebration](https://media.giphy.com/media/3o7abKhOpu0NwenH2g/giphy.gif)
+
+Thanks GoMyCode pour cette aventure
